@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.hyprnoob.butterfly.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
